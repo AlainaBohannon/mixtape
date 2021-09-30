@@ -1,14 +1,29 @@
 <style>
-    body{
+  body{
       background-color: #2E343B;
     }
-    <h1 align="center">Alaina's playlist</h1>
 
-    a{color: #BFBFBF;
+    a{color: lightgrey;
     }
-    a:hover{color: white;}
+    a:hover{color: white;
+    }
 
     h1{
       text-align: center;
-      color: #BFBFBF;
+      color: lightgrey;
     }
+    .smaller{
+      width:30%;
+    }
+
+    h2{
+      color: lightgrey
+    }
+
+    h3{
+      color: lightgrey
+    }
+    p{
+     color: lightgrey
+    }
+</style>
