@@ -1,3 +1,6 @@
+  h1,h2,h3,body,p{
+    border: #2E343B solid;
+  }
   body{
       background-color: #2E343B;
     }
@@ -9,7 +12,7 @@
     a:hover{color: white;
     }
     img{
-      padding: 10px
+      padding: 2px
     }
     h1{
       font-size: 30px
@@ -44,6 +47,9 @@
     }
     p{
      color: lightgrey
+    }
+    p{
+      line-height: 20px
     }
 
     .center {
