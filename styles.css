@@ -1,12 +1,22 @@
   body{
       background-color: #2E343B;
     }
-
+    a{
+      font-size: 20px
+    }
     a{color: lightgrey;
     }
     a:hover{color: white;
     }
-
+    img{
+      padding: 10px
+    }
+    h1{
+      font-size: 30px
+    }
+    h1{
+      font-family: georgia, serif;
+    }
     h1{
       text-align: center;
       color: lightgrey;
@@ -16,12 +26,29 @@
     }
 
     h2{
+      font-size: 25px
+    }
+    h2{
       color: lightgrey
     }
 
     h3{
       color: lightgrey
     }
+    h3{
+      font-size: 25px
+    }
+
+    p{
+      font-size: 17px
+    }
     p{
      color: lightgrey
     }
+
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  }
